@@ -1,5 +1,5 @@
 
-![favicon.png](favicon.png) [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:multigit-com/python/edit/main/DOCS/HEAD.md)
+![automatyzer-3-Logo](https://github.com/user-attachments/assets/ea5dfa62-a534-4145-ae5e-28b8c848821e)
 
 # [www.automatyzer.com](http://www.automatyzer.com) 
 
